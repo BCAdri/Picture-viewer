@@ -1,41 +1,41 @@
-## Descripción
-La aplicación es un visor de cuadros que utiliza una API para mostrar obras de arte. Además de la funcionalidad básica de visualización, la aplicación cuenta con características como paginación, búsqueda por página, perfiles de usuario, inicio de sesión, registro, cierre de sesión y una sección para guardar favoritos relacionados con cada cuenta de usuario.
+## Description
+The application is a picture viewer that uses an API to display artwork. In addition to basic viewing functionality, the application includes features such as pagination, page search, user profiles, login, registration, logout, and a section for saving favorites related to each user account.
 
-## Características Principales
+## Main Features
 
-### 1. Visualización de Cuadros
-- La aplicación permite ver cuadros provenientes de una API.
+### 1. Picture Viewing
+- The application allows users to view pictures from an API.
 
-### 2. Paginación
-- Los resultados de la API se presentan de forma paginada para una mejor experiencia de usuario.
+### 2. Pagination
+- The API results are presented in a paginated format for a better user experience.
 
-### 3. Búsqueda Directa por Página
-- Los usuarios pueden buscar directamente la página que desean visualizar.
+### 3. Direct Page Search
+- Users can directly search for the page they wish to view.
 
-### 4. Perfil de Usuario
-- Cada usuario tiene un perfil que puede personalizar.
+### 4. User Profile
+- Each user has a profile that they can customize.
 
-### 5. Inicio de Sesión y Registro
-- La aplicación cuenta con un sistema de autenticación que permite a los usuarios iniciar sesión y registrarse.
+### 5. Login and Registration
+- The application has an authentication system that allows users to log in and register.
 
-### 6. Cierre de Sesión
-- Los usuarios pueden cerrar sesión para proteger su cuenta.
+### 6. Logout
+- Users can log out to protect their account.
 
-### 7. Guardado de Favoritos
-- Existe una pestaña para guardar y gestionar los cuadros favoritos de cada usuario.
+### 7. Saving Favorites
+- There is a tab to save and manage each user's favorite boxes.
 
-### 8. Requisitos de Uso
-- Es necesario estar logeado para guardar favoritos.
+### 8. Usage Requirements
+- You must be logged in to save favorites.
 
-## Instalación
-1. Clona el repositorio: `git clone https://tu-repositorio.git`
-2. Instala las dependencias: `npm install`
+## Installation
+1. Clone the repository: `git clone https://your-repository.git`
+2. Install the dependencies: `npm install`
 
-## Configuración
-1. Crea un archivo `.env` en la raíz del proyecto.
-2. Define las variables de entorno necesarias, como las claves de API y la configuración de la base de datos.
+## Configuration
+1. Create a `.env` file in the project root.
 
-## Uso
-1. Inicia la aplicación: `ng serve`
-2. Accede a la aplicación a través de tu navegador: `http://localhost:4200`
+2. Define the necessary environment variables, such as API keys and database configuration.
 
+## Usage
+1. Start the application: `ng serve`
+2. Access the application through your browser: `http://localhost:4200`
